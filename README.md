@@ -133,7 +133,7 @@ policy with the CHESS / QM² beamline staff before publishing.
 
 ## Architecture notes
 
-- ** Beamline environment** - `source /nfs/chess/sw/qm2_SPEC/bin/activate`
+- **Beamline environment** - `source /nfs/chess/sw/qm2_SPEC/bin/activate`
 - **File location** — `cd /nfs/chess/id4baux/suchi/2026/nxrefine_data_analysis/SPEC_dashboard/final` 
 - **run code** —  `python spec_dashboard.py` 
 
